@@ -1,4 +1,4 @@
-# # Define the list of remote computers
+# Definir la liste des machines distantes
 $computers = "COMPUTER1", "COMPUTER2", "COMPUTER3"
 
 # Répértoire contenant le fichier de log
